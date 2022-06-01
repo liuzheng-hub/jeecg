@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65d682a8-b9bc-4a8e-912e-00cb52b62d91" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28Ybg38RxMsswCRtWAhyKQvcDf4" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MvcWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mvc_web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.ncst.mvcweb.MvcWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d682a8-b9bc-4a8e-912e-00cb52b62d91" name="Default Changelist" comment="" />
+      <created>1651396573017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651396573017</updated>
+      <workItem from="1651396574174" duration="60000" />
+      <workItem from="1651651154851" duration="92000" />
+      <workItem from="1651651402484" duration="428000" />
+      <workItem from="1651651862859" duration="3517000" />
+      <workItem from="1651661779868" duration="523000" />
+      <workItem from="1651662415237" duration="7874000" />
+      <workItem from="1651748295427" duration="2569000" />
+      <workItem from="1651751240230" duration="2796000" />
+      <workItem from="1651820397575" duration="5474000" />
+      <workItem from="1651836386537" duration="4812000" />
+      <workItem from="1651930205677" duration="2538000" />
+      <workItem from="1651971067251" duration="4414000" />
+      <workItem from="1651983157980" duration="170000" />
+      <workItem from="1651991026887" duration="9975000" />
+      <workItem from="1652007049639" duration="1546000" />
+      <workItem from="1652008633595" duration="5286000" />
+      <workItem from="1652187387779" duration="110000" />
+      <workItem from="1652519579965" duration="873000" />
+      <workItem from="1652521428626" duration="21000" />
+      <workItem from="1652586274243" duration="131000" />
+      <workItem from="1652587122243" duration="3063000" />
+      <workItem from="1652606828038" duration="9836000" />
+      <workItem from="1652622309832" duration="160000" />
+      <workItem from="1652661316244" duration="2459000" />
+      <workItem from="1653189258856" duration="36000" />
+      <workItem from="1653190541870" duration="2148000" />
+      <workItem from="1653440282518" duration="53000" />
+      <workItem from="1653790660865" duration="43000" />
+      <workItem from="1653878461887" duration="11000" />
+      <workItem from="1653986333170" duration="600000" />
+      <workItem from="1654043874889" duration="3799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
